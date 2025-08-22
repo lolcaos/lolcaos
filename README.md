@@ -1,11 +1,11 @@
 
-# [Seu nome] <img src="https://i.pinimg.com/originals/24/9d/c2/249dc27c81e5c09cd2447d199542eadf.gif" width="60px">
+# Lucas Magalhães <img src="https://i.pinimg.com/originals/24/9d/c2/249dc27c81e5c09cd2447d199542eadf.gif" width="60px">
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Lucas Magalhães</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
+- 💬 Pergunte-me sobre: <strong>Escuto rock e jogo roblox</strong>
+- 📣 Nós podemos falar em: <strong>Inglês</strong>
 
 <div align="center">
 
